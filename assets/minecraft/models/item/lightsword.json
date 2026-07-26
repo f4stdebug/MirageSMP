@@ -1,8 +1,8 @@
 {
 	"textures": {
-		"texture": "lightsword",
-		"zDragonSabreEffect": "lightswordeffect"
-	},
+    		"texture": "minecraft:item/lightsword",
+    		"zDragonSabreEffect": "minecraft:item/lightswordeffect"
+	}
 	"elements": [
 		{
 			"name": "zDragonSabre x128",
