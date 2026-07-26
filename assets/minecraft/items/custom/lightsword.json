@@ -1,9 +1,0 @@
-{
-  "model": {
-    "type": "minecraft:select",
-    "property": "minecraft:custom_model_data",
-    "cases": [
-      { "when": 1, "model": "minecraft:item/lightsword" }
-    ]
-  }
-}
